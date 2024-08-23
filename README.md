@@ -10,4 +10,4 @@
 👨‍💻 20 Years old Developer<br>
 👨‍🎓 Computer Engineering Student @UTFPR-TD<br>
 
-🚧 **Current Project:** [Tomato.C](https://github.com/gabrielzschmitz/Tomato.C)
+🚧 **Current Project:** [Tomato.C](https://github.com/gabrielzschmitz/Tomato.C) & [advent-of-code](https://github.com/gabrielzschmitz/advent-of-code)
