@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=gabrielzschmitz&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=gabrielzschmitz&show_icons=true&icon_color=59a8d9&title_color=59a8d9">
 
 ### Hi 👋, I'm Gabriel dos Santos Schmitz
 
