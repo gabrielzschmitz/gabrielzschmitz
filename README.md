@@ -3,7 +3,7 @@
 ### Hi 👋, I'm Gabriel dos Santos Schmitz
 
 [![gabrielzschmitz](https://img.shields.io/static/v1?label=gabrielzschmitz&message=%20&color=lightskyblue&logo=superuser&style=flat-square&logoColor=white)](https://gabrielzschmitz.github.io/)
-[![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=lightskyblue&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gabrielzschmitz)
+[![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=lightskyblue&logo=inspire&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gabrielzschmitz)
 [![gabrielzschmitz](https://img.shields.io/static/v1?label=gabrielzschmitz&message=%20&color=lightskyblue&logo=maildotru&style=flat-square&logoColor=white)](mailto:gabrielzschmitz@protonmail.com)
   
   
