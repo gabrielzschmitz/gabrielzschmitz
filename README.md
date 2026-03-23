@@ -10,4 +10,4 @@
 👨‍💻 21 Years old Developer<br>
 👨‍🎓 Computer Engineering Student @UTFPR-TD<br>
 
-🚧 **Current Project:** [BibInject](https://github.com/gabrielzschmitz/BibInject).
+🚧 **Current Project:** [Motrix](https://github.com/gabrielzschmitz/Motrix).
