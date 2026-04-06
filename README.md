@@ -7,7 +7,7 @@
 [![gabrielzschmitz](https://img.shields.io/static/v1?label=gabrielzschmitz&message=%20&color=lightskyblue&logo=maildotru&style=flat-square&logoColor=white)](mailto:gabrielzschmitz@protonmail.com)
   
   
-👨‍💻 21 Years old Developer<br>
+👨‍💻 22 Years old Developer<br>
 👨‍🎓 Computer Engineering Student @UTFPR-TD<br>
 
 🚧 **Current Project:** [Motrix](https://github.com/gabrielzschmitz/Motrix).
